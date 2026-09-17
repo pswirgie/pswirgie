@@ -106,8 +106,8 @@ Mon expérience me permet de connaitre les piliers d'un projet : une **communica
 
 ### <img src="assets/icons/circle.svg" width="10" height="10" valign="middle"> Matcha (Clownder) - Web / Data (Fullstack)
 
-<img src="assets/icons/link.svg" width="20" height="20" valign="middle"> [details (Portfolio)](https://pchamallow.github.io/Portfolio/blog/post1/)
-<img src="assets/icons/link.svg" width="20" height="20" valign="middle"> [repo github](https://github.com/Pchamallow/matcha)
+<img src="assets/icons/link.svg" width="20" height="20" valign="middle"> [details (Portfolio)](https://pswirgie.github.io/Portfolio/blog/post1/)
+<img src="assets/icons/link.svg" width="20" height="20" valign="middle"> [repo github](https://github.com/pswirgie/matcha)
 
 🚧 **Projet en cours** 🚧 <br>
 *Certifié sans clowns*
@@ -119,8 +119,8 @@ Clownder est une application web de rencontre conçue pour faciliter les connexi
 ### <img src="assets/icons/circle.svg" width="10" height="10" valign="middle"> Minishell (Animshell) - Système / C
 
 
-<img src="assets/icons/link.svg" width="20" height="20" valign="middle"> [details (Portfolio)](https://pchamallow.github.io/Portfolio/blog/post2/)
-<img src="assets/icons/link.svg" width="20" height="20" valign="middle"> [repo github](https://github.com/Pchamallow/Animshell)
+<img src="assets/icons/link.svg" width="20" height="20" valign="middle"> [details (Portfolio)](https://pswirgie.github.io/Portfolio/blog/post2/)
+<img src="assets/icons/link.svg" width="20" height="20" valign="middle"> [repo github](https://github.com/pswirgie/Animshell)
 
 ✅ **Projet terminé**
 
@@ -130,7 +130,7 @@ gestion des pipes et des builtins — sans utiliser de bibliothèque shell exist
 
 <br>
 
-## <img src="assets/icons/book-open.svg" width="24" height="24" valign="middle"> [Portfolio](https://pchamallow.github.io/Portfolio/)
+## <img src="assets/icons/book-open.svg" width="24" height="24" valign="middle"> [Portfolio](https://pswirgie.github.io/Portfolio/)
 
 - **Home** : présentation de mon profil
 - **CV**
@@ -141,7 +141,7 @@ gestion des pipes et des builtins — sans utiliser de bibliothèque shell exist
 
 ## <img src="assets/icons/chart-no-axes-combined.svg" width="24" height="24" valign="middle"> Statistiques Github
 
-<img height="165" src="https://github-readme-stats-ad-drouin.vercel.app/api/top-langs/?username=pchamallow&layout=compact&theme=shadow_blue&hide_border=true&langs_count=6" alt="Top langages"/>
+<img height="165" src="https://github-readme-stats-ad-drouin.vercel.app/api/top-langs/?username=pswirgie&layout=compact&theme=shadow_blue&hide_border=true&langs_count=6" alt="Top langages"/>
 
 
 ## <img src="assets/icons/mail.svg" width="24" height="24" valign="middle">  Me contacter
