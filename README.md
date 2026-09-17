@@ -106,7 +106,7 @@ Mon expérience me permet de connaitre les piliers d'un projet : une **communica
 
 ### <img src="assets/icons/circle.svg" width="10" height="10" valign="middle"> Matcha (Clownder) - Web / Data (Fullstack)
 
-<img src="assets/icons/link.svg" width="20" height="20" valign="middle"> [details (Portfolio)](https://pswirgie.github.io/Portfolio/blog/post1/)
+<img src="assets/icons/search.svg" width="20" height="20" valign="middle"> [details (Portfolio)](https://pswirgie.github.io/Portfolio/blog/post1/)
 <img src="assets/icons/link.svg" width="20" height="20" valign="middle"> [repo github](https://github.com/pswirgie/matcha)
 
 🚧 **Projet en cours** 🚧 <br>
@@ -119,7 +119,7 @@ Clownder est une application web de rencontre conçue pour faciliter les connexi
 ### <img src="assets/icons/circle.svg" width="10" height="10" valign="middle"> Minishell (Animshell) - Système / C
 
 
-<img src="assets/icons/link.svg" width="20" height="20" valign="middle"> [details (Portfolio)](https://pswirgie.github.io/Portfolio/blog/post2/)
+<img src="assets/icons/search.svg" width="20" height="20" valign="middle"> [details (Portfolio)](https://pswirgie.github.io/Portfolio/blog/post2/)
 <img src="assets/icons/link.svg" width="20" height="20" valign="middle"> [repo github](https://github.com/pswirgie/Animshell)
 
 ✅ **Projet terminé**
