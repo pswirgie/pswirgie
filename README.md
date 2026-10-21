@@ -21,8 +21,10 @@
 
 ### Mentalité
 
-Étudiante à 42 Angoulême, j’apprends principalement par l’expérimentation et la réalisation de projets concrets, notamment avec une solide base en C et C++.
-Ce qui me motive, c'est comprendre comment les choses fonctionnent en profondeur et résoudre des problèmes concrets. J' apprécie documenter pour comprendre les sujets. J'aime découvrir de nouveaux outils et sortir de ma zone de confort technique, plutôt que de répéter les mêmes tâches. L'organisation, la rigueur et avoir des résultats sont au coeur de mes préoccupations.
+Étudiante à 42 Angoulême, j’apprends principalement par l’expérimentation et la réalisation de projets concrets, notamment avec une solide base en C et C++. <br>
+Ce qui me motive, c'est comprendre comment les choses fonctionnent en profondeur et résoudre des problèmes concrets.<br>
+J' apprécie documenter pour comprendre les sujets. J'aime découvrir de nouveaux outils et sortir de ma zone de confort technique, plutôt que de répéter les mêmes tâches.<br>
+L'organisation, la rigueur et avoir des résultats sont au coeur de mes préoccupations.
 
 ### Expérience : Titulaire d'un RNCP 4 - Lead Infographiste 3D
 Je suis plus qu'habituée à concevoir des projets divers et variés, en équipe. <br>
