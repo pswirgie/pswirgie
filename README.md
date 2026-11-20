@@ -6,7 +6,7 @@
 ## Développeuse Fullstack
 
 #### 🎯 En recherche d'un stage (4 à 6 mois) ou d'une alternance (2 ans) en vue d'un RNCP 7 (Bac + 5 / Master) - Web, Data ou IA
-📅 Disponible à partir de janvier 2027 <br>
+📅 Disponible à partir d'Avril 2027 <br>
 📍 Angoulême · Poitiers · Bordeaux · Télétravail
 
 <div>
